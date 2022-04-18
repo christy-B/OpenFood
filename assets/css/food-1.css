@@ -1,0 +1,284 @@
+@media (min-width: 576px) {
+  .open-heading {
+    min-width: 420px;
+  }
+}
+
+@media (max-width: 500px) {
+  .open-heading {
+    font-size: 30px!important;
+    min-width: 300px!important;
+  }
+}
+
+@media (max-width: 500px) {
+  .heading-img {
+    width: 50px!important;
+  }
+}
+
+@media (max-width: 576px) {
+  #container-open {
+    margin-top: 200px;
+  }
+}
+
+@media (max-width: 760px) {
+  .banner-head {
+    font-size: 40px!important;
+  }
+}
+
+@media (max-width: 760px) {
+  .banner-head {
+    font-size: 50px!important;
+  }
+}
+
+@media (max-width: 760px) {
+  .banner-head-2 {
+    font-size: 51px!important;
+  }
+}
+
+@media (max-width: 768px) {
+  #pacity-banner {
+    height: 543px!important;
+  }
+}
+
+@media (max-width: 575px) {
+  .banner-head {
+    font-size: 30px!important;
+  }
+}
+
+@media (max-width: 575px) {
+  .banner-head-2 {
+    font-size: 27px!important;
+  }
+}
+
+@media (max-width: 575px) {
+  .banner-container-heads {
+    transform: translateY(-679px)!important;
+  }
+}
+
+@media (max-width: 575px) {
+  .container-search {
+    transform: translateY(-679px)!important;
+  }
+}
+
+@media (max-width: 427px) {
+  .but-telechargement {
+    margin-right: 20px;
+    margin-top: 10px;
+  }
+}
+
+.button-section:hover {
+  background-color: #A9D61E!important;
+  color: white!important;
+}
+
+.buton-hover:hover {
+  background-color: #6A8D00!important;
+  color: white!important;
+  border: none!important;
+}
+
+.btn-hover:hover {
+  background-color: lightgray!important;
+  color: black!important;
+}
+
+.btn-primary:focus {
+  box-shadow: none!important;
+}
+
+#bigImage {
+  position: relative;
+}
+
+.partager {
+  position: absolute;
+}
+
+.containerSlider {
+  position: relative;
+  text-align: center;
+}
+
+.bottom-left {
+  position: absolute;
+  bottom: 90px;
+  left: 15px;
+}
+
+@media (max-width: 476px) {
+  .bottom-left {
+    bottom: 59px;
+    left: 15px;
+  }
+}
+
+.top-left {
+  position: absolute;
+  top: 20px;
+  left: 15px;
+}
+
+@media (max-width: 476px) {
+  .top-left {
+    top: 10px;
+    left: 20px;
+    width: 169px;
+  }
+}
+
+.top-right {
+  position: absolute;
+  top: 20px;
+  right: 15px;
+}
+
+@media (max-width: 476px) {
+  .top-right {
+    top: 10px;
+    right: 15px;
+  }
+}
+
+.bottom-right {
+  position: absolute;
+  bottom: 90px;
+  right: 15px;
+  background-color: white;
+}
+
+@media (max-width: 476px) {
+  .bottom-right {
+    bottom: 59px;
+    right: 15px;
+  }
+}
+
+.containerQ&A {
+  position: relative;
+}
+
+.dropdowMain {
+  position: absolute;
+  right: 133px;
+  margin-top: -51px;
+}
+
+.cacherClic {
+  display: none!important;
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+  #produit {
+    margin-left: -323px!important;
+  }
+}
+
+.modal-content {
+  border: none!important;
+  border-radius: 10px!important;
+}
+
+#close:hover {
+  background-color: red!important;
+}
+
+#myModal {
+  position: absolute;
+  top: 20px;
+  left: -290px;
+}
+
+.header {
+}
+
+@media (max-width: 575px) {
+  .col-groupe {
+    padding-left: 10px!important;
+    /*width: 100%!important;*/
+  }
+}
+
+.div-payer:hover {
+  border: 2px solid green;
+}
+
+.div-annuler:hover {
+  border: 2px solid red;
+}
+
+@media (max-width: 575px) {
+  .padding {
+    padding-left: 15px!important;
+  }
+}
+
+@media (max-width: 575px) {
+  .xs-size {
+    width: auto!important;
+    font-size: 3vw;
+  }
+}
+
+a:link {
+  text-decoration: none;
+}
+
+.img-groupe {
+  position: relative;
+}
+
+.span-groupe {
+  position: absolute;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  .groupe-info {
+    /*margin-left: 0px!important;*/
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  .div-groupe-achat {
+    margin-top: 21px!important;
+    margin-left: -15px;
+  }
+}
+
+.btn-quitter:hover, .btn-quitter:focus {
+  background: red!important;
+}
+
+.link-nav:hover {
+  background: black!important;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  .icon-quit {
+    margin-top: 10px!important;
+  }
+}
+
+@media (max-width: 575px) {
+  .icon-quit {
+    margin-top: 10px!important;
+  }
+}
+
+@media (max-width: 476px) {
+  .span-left {
+    font-size: 14px!important;
+  }
+}
+
